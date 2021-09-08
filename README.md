@@ -1,4 +1,4 @@
-# Webpack Starter
+# Lista de tareas Starter
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
